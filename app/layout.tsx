@@ -1,4 +1,5 @@
 import React from 'react';
+import './globals.css'; // 테일윈드 스타일 연동
 
 export const metadata = {
   title: '알래스카인디고 인쇄 쇼핑몰',
